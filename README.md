@@ -38,7 +38,7 @@ Dataset used:--https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-t
 
 ## Data Preprocessing
 Data Preprocessing is done using python on jupyter notebook.  
-ipynb file:- https://github.com/rajarshi-3199/notebook-Spotify-Song-Recommender
+ipynb file:- https://github.com/prakhar-198/notebook-Spotify-Song-Recommender
 
 ## Deployment
 
